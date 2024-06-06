@@ -1,0 +1,73 @@
+2015 oct 15 - 2018, 2018- 2021, 2021-2023 
+H1b ;-  Oct/2/2023 - Dec/9/2025
+
+GVP Software Pvt LTD, Hyderabad.
+ 
+Over the past eight years in the tech industry, my career has evolved from J2EE application development to specialized expertise in Identity and Access Management (IAM).
+
+I began my career with deep understanding and experience in J2EE application development with a focus on MVC architecture, utilizing technologies such as JSP, Servlets, and EJB 2.0. My technical foundation was solidified through hands-on experience in designing and developing UI components using HTML, JSP, and JavaScript.
+
+My technical skills then expanded to include system administration, where I installed and configured MS Active Directory, MS Exchange, and WebSphere Application Server for a proof of concept to evaluate compatibility and functionality. This early experience laid the groundwork for my subsequent specialization in IAM.
+
+In the IAM domain, I worked with Oracle Identity Manager Suite, deploying the AD Connector within Oracle Identity Manager (OIM) to automate user provisioning and de-provisioning across multiple endpoint servers, including Active Directory, Mainframe, and LDAP. My responsibilities also encompassed managing user lifecycle and database design using Oracle Database and PL/SQL. I implemented SSO authentication using JSP, integrated it with database security tables, and managed login authentication and authorization using SiteMinder Federation for User Authentication Services using SAML 2.0. Additionally, I mapped SQL databases and objects in Java using iBATIS.
+
+My expertise further expanded with SailPoint IdentityIQ, a leading identity governance platform. with the participation in a migration project from Oracle Identity Manager (OIM) to SailPoint IdentityIQ, assisting in analyzing the existing OIM infrastructure and contributing to the development of a comprehensive migration strategy. I supported the transfer of user identities, access privileges, and security policies from OIM to SailPoint IdentityIQ, ensuring no loss of data or functionality. I also assisted in onboarding applications using out-of-the-box connectors and developed custom workflows in SailPoint IdentityIQ using Java Bean Shell Scripting to replicate the functionality of the existing OIM system. I engaged in extensive testing of the new system, including unit testing, integration testing, and user acceptance testing, ensuring all components functioned as expected, and gained a deep understanding of SailPoint IdentityIQ design and architecture.
+
+In my recent role as a Senior SailPoint Engineer at Southwest Airlines, I faced challenges that allowed me to deepen my expertise and demonstrate my problem-solving skills. I identified and resolved issues with the provisioning of LCM related to a third-party application by troubleshooting and modifying the workflow. I also led the upgrade of SailPoint IdentityIQ from version 7.3p3 to 8.0, successfully addressing errors during production caused by uncommunicated alterations. This resulted in improved performance and added new features that enhanced our identity management capabilities.
+
+Additionally, I played a key role in integrating SailPoint with various connectors and applications, developing custom BuildMap Rules and Workflows, and implementing UI branding to align with organizational standards. I configured various self-service features in SailPoint, such as password management and forgot password change functionalities, empowering users to manage their own accounts and reducing the load on our IT helpdesk.
+
+Throughout my career, I have engaged in project management, effort estimation, and compliance adherence, showcasing a diverse skill set that encompasses technical proficiency, project management, and a deep understanding of IAM principles. I am well-versed in Agile methodology and collaborate effectively with cross-functional teams to deliver new capabilities.
+
+In summary, my diverse skill set positions me as a valuable asset in delivering robust and scalable IAM solutions tailored to enterprise needs. I am committed to leveraging my expertise to tackle new challenges and opportunities, continuing my growth and innovation in the tech industry.
+
+_____________________________________________________________________________________________________________________________________________________________________________________________
+										Enhanced Version
+_____________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+Over the past eight years, my career in the tech industry has seen a progressive deepening of expertise across various domains, starting with J2EE application development. I became proficient in J2EE application development with MVC architecture, utilizing technologies like JSP, Servlets, and EJB 2.0. My technical foundation was solidified through the creation of applications, and I used HTML, JSP, and JavaScript for UI component design and development.
+
+My technical skills expanded to include system administration, where I installed and configured MS Active Directory alongside MS Exchange as part of a proof of concept to evaluate compatibility and functionality. I also configured the WebSphere Application Server and managed data sources for database access. This early accomplishment laid the groundwork for my subsequent specialization in identity and access management (IAM).
+
+In the IAM sphere, I set up Oracle Identity Manager Suite components from scratch within a Linux virtual machine environment, including installation, configuration, and testing to ensure a reliable and secure identity management solution. I deployed the AD Connector within Oracle Identity Manager (OIM) to automate the provisioning and de-provisioning of users, streamlining administrative tasks and improving operational efficiency. My responsibilities expanded to managing user provisioning and de-provisioning across multiple endpoint servers such as Active Directory, RACF, and LDAP using Identity Manager, ensuring efficient user lifecycle management.
+
+Simultaneously, I refined my database design skills, focusing on Oracle Database and advancing my proficiency in PL/SQL. I implemented SSO authentication using JSP and integrated it with database security tables. I managed login authentication and authorization using SiteMinder, creating rules, policies, and response groups. Additionally, I mapped SQL databases and objects in Java using iBATIS and installed and configured CA SiteMinder Federation User Authentication Services using SAML 2.0. I provided 24x7 support for SiteMinder, handling deployments, upgrades, and issue resolution during off-business hours.
+
+My expertise further grew with SailPoint IdentityIQ, a leading identity governance platform, where I participated in a migration project from Oracle Identity Manager (OIM) to SailPoint IdentityIQ. I assisted senior team members in analyzing the existing OIM infrastructure and contributed to the development of a comprehensive migration strategy to SailPoint IdentityIQ. I supported the transfer of user identities, access privileges, and security policies from OIM to SailPoint IdentityIQ, ensuring no loss of data or functionality. Furthermore, I assisted in onboarding applications using OOTB connectors and worked on custom workflows in SailPoint IdentityIQ using Java Bean Shell Scripting to replicate the functionality of the existing OIM system. I participated in extensive testing of the new system, including unit testing, integration testing, and user acceptance testing, to ensure all components were functioning as expected. I also helped resolve any post-migration issues, providing ongoing support and maintenance for the new system and contributed to documenting the entire migration process, creating a valuable resource for future reference and for similar projects. Along with this I Participated in conducting user provisioning and reconciliation from Flat file, DB, and AD, resolving issues related to target systems.
+
+In my extensive IAM experience, I have been responsible for a wide array of operational tasks, from application onboarding and incident triage to audit request management. My attention to detail is evident in conducting access re-certifications and remediation within SailPoint-managed applications. My proficiency in SailPoint IdentityIQ 7.2 is showcased through my involvement in all deployment phases, including connector configuration, custom rule development, and workflow configuration.
+
+My understanding of IAM architecture and design is reflected in my ability to produce solution design documents and technical overviews. I have hands-on experience in creating custom tasks and objects for scheduled updates, generating custom reports, and managing certifications for various data feeds. My job also encompasses the configuration of roles, entitlements, Quicklinks, and policies, ensuring compliance with standards such as SOX and PCI.
+
+Beyond technical skills, I have engaged in project management, effort estimation, conducting POCs, and providing progress reports. I am well-versed in Agile methodology and collaborate effectively with cross-functional teams to deliver new capabilities.
+
+My expertise extends to other IAM technologies, including Oracle Identity Manager (OIM), PingFederate, and SiteMinder. I have integrated IAM solutions with various applications and databases, such as SAP ECC, PeopleSoft, and Oracle databases, and have developed custom connectors for provisioning and reconciliation tasks.
+
+Compliance has been a consistent priority throughout my career. I have ensured adherence to regulatory standards by implementing secure authentication and authorization frameworks and conducting thorough testing.
+
+Coming to my recent role as a Senior SailPoint Engineer at Southwest Airlines, I encountered a series of challenges and opportunities that allowed me to further deepen my expertise and demonstrate my problem-solving skills. 
+
+Upon assuming my responsibilities, I identified issues with the provisioning of LCM related to a third-party application. Through troubleshooting, I realized that while the users were provisioned, certain details were not correctly provisioned to the respective application. This was due to a mismatch between the provisioning form and the application form, resulting in users being unable to access the application automatically. To address this, I made slight modifications to the workflow, successfully automating the LCM to the application and resolving the access issue for users.
+
+Another significant project I led was the upgrade of SailPoint IdentityIQ from version 7.3 to 8.0p3. This was a complex task that demanded meticulous planning and execution. We had to ensure that all existing workflows and service adapters were compatible with the new version. Despite facing errors during the production upgrade due to table mismatches caused by an uncommunicated alteration, I led the team in identifying and rectifying the issue. After discovering the altered table, we re-executed the upgrade, successfully upgrading to the required version of SailPoint. This upgrade resulted in improved performance and added new features that enhanced our identity management capabilities.
+
+Beyond these challenges, I was instrumental in integrating SailPoint with various connectors and applications. For instance, I integrated SailPoint with our HR system to automate the process of creating, updating, and deactivating user accounts, reducing manual work and improving accuracy. Additionally, I integrated SailPoint with our Active Directory (AD) using IQService as part of Identity IQ for AD provisioning, enhancing user access control to network resources.
+
+To meet specific business needs, I developed custom BuildMap Rules and Workflows. For example, I created a workflow to automate the process of granting access to new employees based on their roles and departments, using a BuildMap Rule to map the employee's role and department to the appropriate access rights.
+
+In terms of user experience, I implemented UI branding to align with organizational standards. I customized the login page and dashboard of the IdentityIQ environment to match Southwest Airlines' branding, improving aesthetics and making the interface more intuitive for users.
+
+Lastly, I configured various self-service features in SailPoint, such as password management and forgot password change functionalities, empowering users to manage their own accounts and reducing the load on our IT helpdesk.
+
+These practical applications demonstrate the breadth and depth of my work as a Senior SailPoint Engineer at Southwest Airlines. They highlight my ability to lead complex projects, develop custom solutions, and improve user experience, positioning me as a valuable asset in delivering robust and scalable IAM solutions tailored to enterprise needs. I am committed to leveraging my expertise to tackle new challenges and opportunities, continuing my growth and innovation in the tech industry.
+
+Throughout the project, I employed Agile principles and Jira for project management, delivering the project on time and within budget, to the client's satisfaction.
+
+In summary, my diverse skill set, encompassing technical proficiency, project management, and a deep understanding of IAM principles, positions me as a valuable asset in delivering robust and scalable IAM solutions tailored to enterprise needs. I am committed to leveraging my expertise to tackle new challenges and opportunities, continuing my growth and innovation in the tech industry.
+
