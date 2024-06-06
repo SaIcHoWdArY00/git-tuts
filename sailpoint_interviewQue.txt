@@ -1,0 +1,130 @@
+1) explain the components of the SailPoint identity IQ architecture?
+Ans:-The components of the SailPoint identity IQ architecture include the identity IQ server application server database connectors and user interface
+the server manages the application logic while the connectors enable integration with Target systems and the user interface provides a graphical interface for administrators and end users.
+
+2) what is role-based access control (RBAC) and how is it implemented in SailPoint? 
+Ans:- role-based access control is a security model that Associates user roles with specific permissions and access rights in SailPoint rbac is implemented through the definition and assignment of roles to users these roles determine the access privileges a user has within the system based on their job function or responsibilities.
+
+3) how do you define and manage identity lifecycle events in SailPoint?
+Ans:- In SailPoint identity lifecycle events are defined and managed through
+workflows. workflows enable the automation of processes such as onboarding
+off-boarding and role changes by configuring and customizing workflows,
+organizations can streamline identity lifecycle management, ensuring timely and accurate provisioning and depth provisioning of user accounts.
+
+4) what is an identity cube in SailPoint and how is it used? 
+Ans:- An identity cube in SailPoint is a data structure that represents the user identities and their attributes. It is used for data aggregation correlation and reporting purposes. The identity Cube consolidates information from various connected systems to provide a unified view of user identities, enabling efficient identity governance and access management.
+
+5) explain the concept of provisioning and de-provisioning in SailPoint?
+Ans:- Provisioning in SailPoint refers to the process of creating and granting access to user accounts and resources based on predefined policies and roles. deprovisioning on the other hand involves revoking access and disabling user accounts when they are no longer needed these processes ensure that users have the right access at the right time throughout their life cycle.
+
+6) how do you configure connectors in sale point for user provisioning?
+Ans: - Connectors in SailPoint are configured using connector configuration files, which Define the integration settings for specific Target systems. These files specify connection parameters, provisioning logic, attribute
+mappings, and other details required to establish communication and enable user provisioning between SailPoint and the target systems.
+
+7) what are the different types of application connectors available in sailpoint?
+Ans: - SailPoint provides a wide range of application connectors to integrate with various Target systems these connectors include connectors for
+popular Enterprise applications such as active directory, SAP, Oracle, Salesforce, and more.Each connector is specifically designed to handle the provisioning and management of identities and access within the respective application.
+
+8) Describe the purpose and usage of certifications in SailPoint?
+Ans:- certifications in SailPoint are used to validate and review user access rights and entitlements. they help ensure compliance and security
+by allowing managers and business owners to review and approve access rights for their respective teams.
+
+9)how do you perform access requests and approval workflows in SailPoint?
+Ans:- In SailPoint access request and approval workflows are typically initiated by users through self-service portals. The workflows involve requesting access to specific resources, which then go through an approval process involving managers or designated approvers before the access is granted.
+
+
+10) what is the difference between Joiner,mover and leaver processors in SailPoint? 
+Ans:- Joiner, mover, and leaver processes in SailPoint are part of Identity lifecycle management. The Joiner process handles the provisioning of access and entitlements for new employees, the Mover process handles changes in roles or departments, and the lever process deals with disabling or removing access for employees who leave the organization.
+
+
+11) how do you configure and manage entitlements in SailPoint? 
+Ans:- Entitlements in SailPoint are configured and managed through the creation of entitlement catalogs. Entitlements represent specific access rights or permissions that users can have within applications or systems
+the catalogs organize and Define the available entitlements making it easier
+to assign and manage user access.
+
+12) explain the concept of entitlement catalogs and their role in SailPoint?
+Ans:- Entitlement catalogs in SailPoint are a centralized repository of predefined access rights or permissions that can be assigned to users. They provide a structured way to manage and assign entitlements ensuring consistency and ease of administration across applications and systems within
+the organization.
+
+13) what are access policies in SailPoint and how are they enforced?
+Ans:- Access policies in SailPoint Define rules and conditions that govern user access to resources they can specify requirements such as role-based access segregation of duties, or compliance regulations. SailPoint enforces these policies through its identity governance capabilities, ensuring that access is granted or revoked based on the defined policies.
+
+14) how do you integrate SailPoint with external systems such as HR systems or active directory? 
+
+Ans:- SailPoint integrates with external systems through connectors these connectors establish communication and synchronization between SailPoint and
+systems like HR systems or active directory, allowing for automated provisioning and deprovisioning of user accounts, access certifications and data synchronization.
+
+15) explain the purpose and usage of rules in SailPoint? 
+Ans: - Rules in SailPoint are used to define and enforce specific logic and behavior within identity management processes. They can be customized to automate actions, decision-making, and workflows based on predefined conditions allowing for flexibility and customization in SailPoint implementations.
+
+16)what is the purpose of the identity Warehouse in SailPoint? 
+Ans: - The identity Warehouse in SailPoint serves as a central repository for
+storing and managing identity related data. It consolidates identity information from various sources and provides a unified view for identity governance and administration. 
+
+17) how do you handle data aggregation and correlation in SailPoint?
+Ans:- data aggregation and correlation in SailPoint involve collecting and merging identity data from multiple sources such as HR systems or directories, to create a comprehensive and accurate view of user identities.
+This ensures that identity information is synchronized and up to date across the organization.
+
+18) describe the process of creating custom workflows in SailPoint.
+Ans: - Creating custom workflows in SailPoint involves defining the workflow steps,Transitions, and actions required to automate specific identity related
+processes. This can include tasks like user onboarding access request approvals, or role-based provisioning, tailored to the organization's unique requirements.
+
+19) how do you handle exceptions and error handling in SailPoint workflows?
+Ans: - In SailPoint workflows, exceptions and error handling are managed through conditional logic and error handling mechanisms. This ensures that when unexpected situations or errors occur, appropriate actions are taken, such as notifying administrators or initiating a predefined error resolution process.
+
+20) explain the concept of identity synchronization in SailPoint.
+Ans: - Identity synchronization in SailPoint refers to the process of ensuring that user identity information is consistently and accurately updated across connected systems. It involves synchronizing user attributes, roles, entitlements, and access rights to maintain a cohesive and up-to-date identity landscape.
+
+21) how do you perform reconciliation and identity data validation in SailPoint? 
+Ans: - Reconciliation in SailPoint involves comparing identity data from authoritative sources with the information stored in the identity Warehouse to identify any inconsistencies or discrepancies. Identity data validation ensures that the identity information is accurate, complete, and compliant with defined business rules and policies.
+
+22)Describe the SailPoint access certification process?
+Ans: - The SailPoint access certification process involves reviewing and validating user access rights and entitlements to ensure compliance and
+reduce security risks. This process typically includes periodic reviews approvals and re-certification of access, involving business stakeholders and managers to verify and attest to the appropriateness of user access.
+
+23) what are the best practices for performance tuning and optimization in
+SailPoint? 
+Ans: - some best practices for performance tuning and optimization and SailPoint include optimizing database configurations, fine-tuning system caching indexing employing scalable hardware infrastructure, implementing
+efficient workflow design patterns, and regularly monitoring and analyzing
+system performance metrics.
+
+24) can you share any experiences or examples of SailPoint implementation  projects you have worked on? 
+Ans: - yes,I have worked on several sailpoint implementation projects in the past. one notable project involved implementing SailPoint identity IQ for a large financial institution where I was responsible for configuring connectors, defining access policies, and designing custom workflows to streamline their identity and access management processes.
+
+25) what is SailPoint identity IQ and what are its key features?
+Ans: - SailPoint identity IQ is a comprehensive identity governance solution that helps organizations manage and secure user identities and access. Its key features include user provisioning access request and approval workflows identity lifecycle management access certifications and compliance reporting.
+
+
+
+Q1. What Core Sailpoint implementations did you do without any technical guidance, i.e. independently where you understood the requirement and implemented yourself from scratch? 
+
+ 
+Q2. During your hands-on development activity, did you develop any modular code or utilities which were re-used for new Sailpoint capabilities? Do you have hands-on experience with writing code for complex implementation? If true, give an example of the implementation you did?
+ 
+Q3. What Core Sailpoint functional capabilities do you have hands-on experience with? Describe the top 3 you have expertise in? 
+
+ 
+Q4. Do you have hands-on experience in integrating Workday with SailPoint? If true, what was the web service name and were there implementation challenges? Have I upgraded the Workday API to the new version? How will you know and configure xPath in SailPoint for custom attributes defined in Workday? 
+
+ 
+Q5. Do you have hands-on experience using SSF Framework? Explain use case for Joiner and Conversion? 
+
+ 
+Q6. Do you have hands-on experience in writing Sailpoint Database SQL queries? What would be SQL query for use case – “get users who have User ID starting with U and User ID should be 4 chars”? 
+
+SELECT * FROM users WERE UserID LIKE 'U%' and LENGTH(UserID) = 4; 
+
+
+Q7. Do you have hands-on experience on executing/supporting Sailpoint Certifications? Describe automatic closing in manager certification? 
+
+
+
+Q8. When you are part of the Scrum Development/Support team – Give an example where the team was struggling with a technical issue(with code or production issue) and you stepped in to get the resolution? 
+
+
+
+Q9. Sailpoint User has AD entitlement assigned, describe what happens when this AD group is moved to a different OU? 
+
+
+
+Q10. How do we manage identity snapshots over time? Describe if you have done any optimization around identities in Sailpoint?
